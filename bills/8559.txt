@@ -1,0 +1,18 @@
+ 	 WELCOME PATEL MART
+ BILL NUMBER: 8559
+ CUSTOMER NAME: sckaud
+ PHONE NUMBER: 6984
+ CUSTOMER EMAIL: afuhaufd
+===================================================
+ PRODUCTS		QTY		PRICE
+===================================================    
+  Roadster		1		1800
+  Roadster		1		1800
+  Roadster		1		1800
+
+ ===================================================
+ Sub Amount:			RS.7200.00
+ Tax Amount:			RS.54.00
+ Total Amount:			RS.7254.00
+ =================================================== 
+

@@ -1,0 +1,17 @@
+ 	 WELCOME PATEL MART
+ BILL NUMBER: 1118
+ CUSTOMER NAME: shubham rane
+ PHONE NUMBER: 9145056557
+ CUSTOMER EMAIL: shubham111@gmail.com
+===================================================
+ PRODUCTS		QTY		PRICE
+===================================================
+    Ponds		1		20
+  OnePlus 3		1		45000
+
+ ===================================================
+ Sub Amount:			RS.45020.00
+ Tax Amount:			RS.0.20
+ Total Amount:			RS.45020.20
+ =================================================== 
+
